@@ -53,9 +53,9 @@ Source:
 * [http://opengameart.org/content/2d-planets-0](OpenGameArt.org: 2D Planets)
 * [http://opengameart.org/content/space-backgrounds-1](OpenGameArt.org: Space backgrounds 1)
 * [http://opengameart.org/content/space-backgrounds-2](OpenGameArt.org: Space backgrounds 2)
-* [http://opengameart.org/content/space-backgrounds-3|OpenGameArt.org: Space backgrounds 3]]
-* [http://opengameart.org/content/another-space-backgrounds|OpenGameArt.org: Another Space Backgrounds]]
-* [http://opengameart.org/content/hd-planet|OpenGameArt.org: HD Planet]]
+* [http://opengameart.org/content/space-backgrounds-3](OpenGameArt.org: Space backgrounds 3)
+* [http://opengameart.org/content/another-space-backgrounds](OpenGameArt.org: Another Space Backgrounds)
+* [http://opengameart.org/content/hd-planet](OpenGameArt.org: HD Planet)
 
 Resources / Glitch
 ------------------
