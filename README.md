@@ -3,6 +3,17 @@ Jeda Artwork
 
 Artwork for the jeda website and free resources for game development.
 
+Resources / Planet Cute
+-----------------------
+
+Credits:
+* by Daniel Cook [Lostgarden.com](http://Lostgarden.com)
+
+Licence: [Creative Commons Attribution 3.0 United States](http://creativecommons.org/licenses/by/3.0/us/)
+
+Source:
+* [Danc's Miraculously Flexible Game Prototyping Tiles](http://www.lostgarden.com/2007/05/dancs-miraculously-flexible-game.html)
+
 Resources / Car
 ---------------
 
@@ -65,3 +76,12 @@ Licence: [Public Domain](http://creativecommons.org/publicdomain/zero/1.0/)
 Source:
 * [OpenGameArt.org: Glitch Food & Drink Items (SVG)](http://opengameart.org/content/glitch-food-drink-items-svg)
 * [OpenGameArt.org: Glitch Achievements (SVG)](http://opengameart.org/content/glitch-achievements-svg)
+
+
+Resources / Puzzle
+------------------
+
+Licence: [Public Domain](http://creativecommons.org/publicdomain/zero/1.0/)
+
+Source:
+* [OpenGameArt.org: Puzzle game art](http://opengameart.org/content/puzzle-game-art)
