@@ -51,6 +51,7 @@ Source:
 * [OpenGameArt.org: Magic Books](http://opengameart.org/content/magic-books)
 * [OpenGameArt.org: Potion Bottles Extra](http://opengameart.org/content/potion-bottles-extra)
 * [OpenGameArt.org: Fantasy Book](http://opengameart.org/content/fantasy-book)
+* [OpenGameArt.org: Armor Icons by Equipment Slot](http://opengameart.org/content/armor-icons-by-equipment-slot)
 
 Resources / Space
 -----------------
