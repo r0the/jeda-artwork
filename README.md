@@ -51,7 +51,13 @@ Source:
 * [OpenGameArt.org: Magic Books](http://opengameart.org/content/magic-books)
 * [OpenGameArt.org: Potion Bottles Extra](http://opengameart.org/content/potion-bottles-extra)
 * [OpenGameArt.org: Fantasy Book](http://opengameart.org/content/fantasy-book)
+* [OpenGameArt.org: Fantasy Icon Pack by Ravenmore](http://opengameart.org/content/fantasy-icon-pack-by-ravenmore-0)
+
+
 * [OpenGameArt.org: Armor Icons by Equipment Slot](http://opengameart.org/content/armor-icons-by-equipment-slot)
+
+Resources / Medieval-CC
+-----------------------
 
 Resources / Space
 -----------------
@@ -106,6 +112,20 @@ Source:
 * [OpenGameArt.org: Grass Texture,seamless 2d](http://opengameart.org/content/grass-textureseamless-2d)
 * [OpenGameArt.org: Wood Texture Tiles](http://opengameart.org/content/wood-texture-tiles)
 * [OpenGameArt.org: Seamless Brick/Concrete Textures](http://opengameart.org/content/seamless-brickconcrete-textures)
-* [OpenGameArt.org: [3 live proceduraly generated tiling water textures (512px, running brushes)](http://opengameart.org/content/3-live-proceduraly-generated-tiling-water-textures-512px-running-brushes)
+* [OpenGameArt.org: 3 live proceduraly generated tiling water textures (512px, running brushes)](http://opengameart.org/content/3-live-proceduraly-generated-tiling-water-textures-512px-running-brushes)
 * [OpenGameArt.org: Golgotha Textures](http://opengameart.org/content/golgotha-textures)
+
+Resources / LPC
+
+Licence: [Creative Commons Attribution-ShareAlike 3.0 Unported](http://creativecommons.org/licenses/by-sa/3.0/)
+
+* [Liberated Pixel Cup style guide, assets, and demo](http://lpc.opengameart.org/static/lpc-style-guide/assets.html)
+* [OpenGameArt.org: Ponytail and Plain hairstyles](http://opengameart.org/content/ponytail-and-plain-hairstyles)
+  by [John White](http://opengameart.org/users/joe-white)
+* [OpenGameArt.org: LPC clothes and hair](http://opengameart.org/content/lpc-clothes-and-hair)
+  by [Nila122](http://opengameart.org/users/nila122)
+* [OpenGameArt.org: LPC Dark Elves](http://opengameart.org/content/lpc-dark-elves)
+  by [Nila122](http://opengameart.org/users/nila122)
+* [OpenGameArt.org: [LPC] Medieval fantasy character sprites](http://opengameart.org/content/lpc-medieval-fantasy-character-sprites)
+  by [wulax](http://opengameart.org/users/wulax)
 
