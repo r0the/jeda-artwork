@@ -134,8 +134,16 @@ Licence: [Creative Commons Attribution-ShareAlike 3.0 Unported](http://creativec
   by [wulax](http://opengameart.org/users/wulax)
 * [OpenGameArt.org: LPC ladies](http://opengameart.org/content/lpc-ladies)
   by [makrohn](http://opengameart.org/users/makrohn)
+* [OpenGameArt.org: LPC Male Sheets](http://opengameart.org/content/lpc-male-sheets)
+  by [makrohn](http://opengameart.org/users/makrohn)
+* [OpenGameArt.org: LPC Dress in Combat Poses](http://opengameart.org/content/lpc-dress-in-combat-poses)
+  by [makrohn](http://opengameart.org/users/makrohn)
+* [OpenGameArt.org: LPC Full Plate Golden Armor](http://opengameart.org/content/lpc-full-plate-golden-armor-0)
+  by [makrohn](http://opengameart.org/users/makrohn)
 * [OpenGameArt.org: LPC White Beard](http://opengameart.org/content/lpc-white-beard)
   by [Nemisys](http://opengameart.org/users/nemisys)
-* [OpenGameArt.org: LPC Brunet Mustache(http://opengameart.org/content/lpc-brunet-mustache)
+* [OpenGameArt.org: LPC Brunet Mustache](http://opengameart.org/content/lpc-brunet-mustache)
   by [Nemisys](http://opengameart.org/users/nemisys)
+
+http://opengameart.org/content/lpc-male-sheets
 
