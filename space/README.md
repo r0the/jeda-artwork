@@ -13,4 +13,5 @@ Sources:
 * [OpenGameArt.org: Space backgrounds 3](http://opengameart.org/content/space-backgrounds-3)
 * [OpenGameArt.org: Another Space Backgrounds](http://opengameart.org/content/another-space-backgrounds)
 * [OpenGameArt.org: HD Planet](http://opengameart.org/content/hd-planet)
+* [OpenGameArt.org: Planet, modified](http://opengameart.org/content/planet-modified)
 
