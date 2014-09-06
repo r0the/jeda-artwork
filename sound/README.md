@@ -28,3 +28,5 @@ Sources:
 * [OpenGameArt.org: Goblins Sound Pack](http://opengameart.org/content/goblins-sound-pack)
 * [OpenGameArt.org: Zombies Sound Pack](http://opengameart.org/content/zombies-sound-pack)
 * [OpenGameArt.org: Monster Sound Effects 2](http://opengameart.org/content/monster-sound-effects-2)
+* [OpenGameArt.org: GUI Sound Effects](http://opengameart.org/content/gui-sound-effects)
+
